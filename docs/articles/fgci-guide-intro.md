@@ -41,9 +41,9 @@ This guide provides a general introduction to the FGCI grid environment. More de
  
 Table of contents
 1.Preparatory steps
-1.1 Grid certificates
-1.2 Joining the fgi.csc.fi Virtual Organization
-1.3 ARC middleware
+..1. Grid certificates
+..2. Joining the fgi.csc.fi Virtual Organization
+..3.  ARC middleware
 
  
 2. Using FGCI with ARC middleware
